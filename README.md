@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Every time I click the button, it render a random sentece.
+The default value is Caio, so every time I reload the page it will be there.
+![2023-04-18 (5)](https://user-images.githubusercontent.com/74388750/232765835-8d3b9aef-0c53-45b7-8253-e10d586ca5df.png)
+![2023-04-18 (6)](https://user-images.githubusercontent.com/74388750/232765837-5e7e56c9-2e98-4b81-9983-d63f0f253a6f.png)
+![2023-04-18 (7)](https://user-images.githubusercontent.com/74388750/232765839-bc48ba47-c68a-4fbe-a24d-4dbfa7c1422a.png)
+![2023-04-18 (8)](https://user-images.githubusercontent.com/74388750/232765843-bb486bf6-43ca-49c5-9fd7-40024b17ad21.png)
+![2023-04-18](https://user-images.githubusercontent.com/74388750/232765847-5f6c87cf-cb08-4464-b8a4-886615aeeb73.png)
+![2023-04-18 (1)](https://user-images.githubusercontent.com/74388750/232765828-5d952177-cf89-46f7-9472-575f6d5fd1e0.png)
+![2023-04-18 (3)](https://user-images.githubusercontent.com/74388750/232765831-8dda295b-f412-4c42-b8b5-82f5d696baf4.png)
+![2023-04-18 (4)](https://user-images.githubusercontent.com/74388750/232765832-3e1d6d84-e00a-4731-85f6-6348be228c37.png)
