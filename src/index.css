@@ -9,6 +9,7 @@ button {
   padding: 10px 20px;
   font-size: 1.4rem;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .p-button {
