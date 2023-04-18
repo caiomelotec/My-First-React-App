@@ -68,7 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-`Every time I click the button, it render a random sentece.
+
+### `Every time I click the button, it render a random sentece.
 The default value is Caio, so every time I reload the page it will be there.`
 
 ![defaultvalue](https://user-images.githubusercontent.com/74388750/232767222-1a328696-2601-4402-a0ca-da25e5c0bcd1.png)
